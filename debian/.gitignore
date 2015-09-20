@@ -2,4 +2,5 @@
 /*.log
 /*.debhelper
 /*.substvars
+/python-parsimonious
 /python3-parsimonious
